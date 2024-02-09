@@ -1,0 +1,25 @@
+.box1{
+    width:50%;
+    height:200px;
+    background-color: #ccc;
+}
+.box2{
+    width:100%;
+    height:100px;
+    background-color: #abc;
+}
+.box3{
+    width:100%;
+    height:100px;
+    background-color: aqua;
+}
+.box4{
+    width:100%;
+    height:100px;
+    background-color: blueviolet;
+}
+.box5{
+    width:100%;
+    height:100px;
+    background-color: blueviolet;
+}
